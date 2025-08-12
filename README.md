@@ -67,4 +67,4 @@ python bot.py
 ## 👤 Автор
 
 Андрій Яценко  
-Email: acenkoa891@gmail.com
+Email: andrii.yatsenko2006@gmail.com
